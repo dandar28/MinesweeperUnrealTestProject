@@ -1,0 +1,3 @@
+[submodule "Plugins/MinesweeperEditorPlugin"]
+	path = Plugins/MinesweeperEditorPlugin
+	url = https://github.com/dandar28/MinesweeperEditorPlugin.git
